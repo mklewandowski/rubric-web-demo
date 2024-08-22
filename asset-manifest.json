@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rubric-web-demo/static/css/main.f31d7bbb.css",
-    "main.js": "/rubric-web-demo/static/js/main.2ee253c9.js",
+    "main.js": "/rubric-web-demo/static/js/main.c1edb825.js",
     "static/media/R1Q1SE.jpg": "/rubric-web-demo/static/media/R1Q1SE.ddbe2f22a993b4766233.jpg",
     "static/media/R1Q5SE.jpg": "/rubric-web-demo/static/media/R1Q5SE.e714e05f21a2d6333af5.jpg",
     "index.html": "/rubric-web-demo/index.html",
     "main.f31d7bbb.css.map": "/rubric-web-demo/static/css/main.f31d7bbb.css.map",
-    "main.2ee253c9.js.map": "/rubric-web-demo/static/js/main.2ee253c9.js.map"
+    "main.c1edb825.js.map": "/rubric-web-demo/static/js/main.c1edb825.js.map"
   },
   "entrypoints": [
     "static/css/main.f31d7bbb.css",
-    "static/js/main.2ee253c9.js"
+    "static/js/main.c1edb825.js"
   ]
 }
