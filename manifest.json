@@ -1,0 +1,8 @@
+{
+  "short_name": "SCALE Rubrics",
+  "name": "SCALE Rubrics",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
