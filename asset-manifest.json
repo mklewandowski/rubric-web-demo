@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rubric-web-demo/static/css/main.f31d7bbb.css",
-    "main.js": "/rubric-web-demo/static/js/main.65af2ee1.js",
+    "main.js": "/rubric-web-demo/static/js/main.0a345eb2.js",
     "static/media/R1Q1SE.jpg": "/rubric-web-demo/static/media/R1Q1SE.ddbe2f22a993b4766233.jpg",
     "static/media/R1Q5SE.jpg": "/rubric-web-demo/static/media/R1Q5SE.e714e05f21a2d6333af5.jpg",
     "static/media/scale_science_logo.webp": "/rubric-web-demo/static/media/scale_science_logo.8f311f0b0f38c6782731.webp",
     "index.html": "/rubric-web-demo/index.html",
     "main.f31d7bbb.css.map": "/rubric-web-demo/static/css/main.f31d7bbb.css.map",
-    "main.65af2ee1.js.map": "/rubric-web-demo/static/js/main.65af2ee1.js.map"
+    "main.0a345eb2.js.map": "/rubric-web-demo/static/js/main.0a345eb2.js.map"
   },
   "entrypoints": [
     "static/css/main.f31d7bbb.css",
-    "static/js/main.65af2ee1.js"
+    "static/js/main.0a345eb2.js"
   ]
 }
